@@ -1,43 +1,15 @@
-# Jekyll Boilerplate
+# kai biodata
+- - - - - - - - - - - - 
+Chung, Kai-Han studied (obtained) his master's degree from the Department of Computational Design in National Yunlin University of Science and Technology. He had been involved in emotion study assisting designers to improve their awareness to explore more ideas during the designing process. He has published papers at international conferences in Taiwan, China, and Thailand. Currently, he is studying at Graduate Institute of Architecture in the National Chiao Tung University. He has been investigating the relationship between the human senses and spatial field. The human senses include a few parts in which seeing, touching and kinesthetic are main concepts in his research.
 
-Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyll](https://jekyllrb.com/) setup. The motivation behind this project was for me to avoid doing the same things over and over every time I build yet another site with Jekyll.
+## Conference publications
+* Chung, K. H., & Hou, J.-H. (2017, May 16). The study of body-based improvisation training based on the indeterminacy of movement notation system. Unpublished manuscript, Paper presented at the 2017 IEEE International Conference on Applied System Innovation (ICASI), Sapporo, Japan. 
+* Chung, K. H. (2013, November 16). The reproduction of rhythm via the practice of everyday life. Paper presented at the 6th International Symposium on Temporal Design (6ISTD), Taipei, Taiwan. 
+* Chung, K. H., & Hou, J. H. (2012, December 7). The trivial transitional space: Understanding a thin dimensional transitional space from a phenomenology approach. Poster session presented at the 10th International Conference of Asia Digital Art and Design Association & 6th International Conference of Taiwan Association of Digital Media Design (2012 ADADA & TADMD). Taichung, Taiwan. 
 
-## Features
+### Awards
+* 2017/05/16：First prize paper award
+Chung, K. H., & Hou, J.-H. (2017, May 16). The study of body-based improvisation training based on the indeterminacy of movement notation system. Unpublished manuscript, Paper presented at the 2017 IEEE International Conference on Applied System Innovation (ICASI), Sapporo, Japan.
 
-### Additions
-
-* An empty folder has been created at `assets/images`.
-* An empty folder has been created at `assets/js`.
-* An initial configuration for Kramdown has been added.
-* The CSS is being minified via Sass.
-* Some project-agnostic base styles have been added.
-* Normalize.css has been added.
-* `.DS_Store` and `node_modules` have been added to `.gitignore`.
-* The `jekyll-feed` gem has been added to automate Atom feed generation.
-* The `jekyll-sitemap` gem has been added to automate sitemap generation.
-
-### Editions
-
-* The `_sass` folder has been moved to `assets/sass`.
-* The `css` folder has been moved to `assets/css`.
-* The `default.html` layout has been cleaned up.
-* The `index.html` has been cleaned up.
-
-### Deletions
-
-* The `about.md` file has been removed.
-* The `page.html` and `post.html` layouts have been removed.
-* The sample post and the `_posts` folder have been removed.
-* All initial partials from the `_includes` folder but `head.html` have been removed.
-* Options `email`, `twitter_username`, `github_username` have been removed.
-* All the existing styles have been removed.
-
-### Fixes
-
-* A `lang` attribute has been added to the default layout.
-* A `<main>` element has been added to the default layout.
-
-## Credits
-
-* [Jekyll](https://jekyllrb.com/)
-* [Hugo Giraudel](https://twitter.com/HugoGiraudel)
+## links
+* [sample](https://jekyllrb.com/)
